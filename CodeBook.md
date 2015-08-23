@@ -92,7 +92,4 @@ feature_mean_value: Gives the average value of all measurements in the
 	FORM. A numerical value between -1.0 and 1.0.
 
 
-Note: The tidied data is presented in long form, with feature variables listed as an independent column. 
-See project rubric and discussion posts with TA David Hood. For more information on original dataset and 
-processing steps, see README.
-==================================================================
+Note: The tidied data is presented in long form, with feature variables listed as an independent column. See project rubric and discussion posts with TA David Hood. For more information on original dataset and processing steps, see README.
